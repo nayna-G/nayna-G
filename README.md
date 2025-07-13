@@ -30,6 +30,15 @@
 
 ---
 
+## 📈 GitHub Stats (a.k.a. My Relationship with Git)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nayana-G&show_icons=true&theme=tokyonight&hide_border=false" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nayana-G&theme=tokyonight" width="48%" />
+</p>
+
+---
+
 ## 🤹🏽‍♀️ TL;DR
 
 I design like I mean it, debug like it’s personal,  
