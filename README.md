@@ -1,7 +1,7 @@
 # 👋 Hey, I’m Nayana!
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1100&color=F66D9B&center=true&width=435&lines=Still+waiting+for+the+compiler+to+love+me+back;I+speak+fluent+“it+worked+yesterday”;Accidentally+good+at+UI;final_final_REALLYFINAL_2.py" alt="Typing SVG" />
+ <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1100&color=F66D9B&center=true&width=435&lines=Still+waiting+for+the+compiler+to+love+me+back;I+speak+fluent+%22it+worked+yesterday%22;Accidentally+good+at+UI;final_final_REALLYFINAL_2.py" alt="Typing SVG" />
 </p>
 
 ---
@@ -38,10 +38,3 @@
 </p>
 
 ---
-
-## 🤹🏽‍♀️ TL;DR
-
-I design like I mean it, debug like it’s personal,  
-and pretend I know more than I do (I don’t).
-
-> Let's connect, I don’t bite (unless you forget to center a div).
