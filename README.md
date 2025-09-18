@@ -24,7 +24,7 @@
 ## 🛠 My Fun-Time Toolbox
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,c++,java,html,css,js,react,flutter,mysql,git,linux,figma&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,c,java,html,css,js,react,flutter,mysql,git,linux,figma&perline=8" />
 </div>
 
 ---
