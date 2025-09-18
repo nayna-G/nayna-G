@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Nayana
+# 👋 Hey, I'm Nayana G
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=F66D9B&center=true&width=435&lines=I+talk+a+lot+about+code;I+love+new+repos+and+learning;Guess+what+I'm+building+next..." alt="Typing SVG" />
