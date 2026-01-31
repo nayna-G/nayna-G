@@ -28,10 +28,13 @@
 </div>
 
 ---
-
-## 📈 GitHub Playground
+### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nayan-G" />
+  <a href="https://github.com/nayan-G">
+    <img
+      height="140px"
+      src="https://github-readme-stats-eight-theta.vercel.app/api?username=nayan-G&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+    />
+  </a>
 </p>
-
