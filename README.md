@@ -29,9 +29,17 @@
 
 ---
 
-## 📈 My GitHub Playground
+## 📈 GitHub Playground
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nayana-G&show_icons=true&theme=tokyonight&hide_border=false" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nayana-G&theme=tokyonight" width="48%" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=nayana-G&show_icons=true&theme=tokyonight&hide_border=true" 
+    width="48%" 
+    alt="GitHub Stats"
+  />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=nayana-G&theme=tokyonight&hide_border=true" 
+    width="48%" 
+    alt="GitHub Streak"
+  />
 </p>
