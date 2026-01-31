@@ -32,15 +32,6 @@
 ## 📈 GitHub Playground
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=nayan-G&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"
-    width="48%"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://streak-stats.demolab.com?user=nayan-G&theme=tokyonight&hide_border=true"
-    width="48%"
-    alt="GitHub Streak"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=nayan-G" />
 </p>
 
