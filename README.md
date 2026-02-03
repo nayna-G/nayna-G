@@ -31,10 +31,11 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/nayan-G">
+  <a href="https://github.com/nayna-G">
     <img
       height="140px"
       src="https://github-readme-stats-eight-theta.vercel.app/api?username=nayna-G&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
     />
   </a>
 </p>
+
